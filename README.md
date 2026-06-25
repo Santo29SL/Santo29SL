@@ -4,9 +4,9 @@
   <tr>
     <!-- LEFT SIDE: LIGHTNING AND HEADING -->
     <td width="35%" align="center" valign="middle">
-      <img src="lightning-strike.gif" width="160" alt="Ka-Chow Strike">
+      <img src="lightning-strike.gif" width="150" alt="Ka-Chow Strike">
       <br>
-      <h2>KA-CHOW!</h2>
+      <h3>KA-CHOW!</h3>
     </td>
     
     <!-- RIGHT SIDE: MATCHING UNIFORM LAYOUT -->
@@ -15,10 +15,9 @@
       <img src="https://komarev.com" alt="Profile Views">
       <br><br>
       <h4 style="margin: 0 0 8px 0;">🛠️ Tech Stack</h4>
-      <!-- ALL YOUR ICONS ARE DECLARED INSIDE THIS SINGLE IMAGE URL -->
+      <!-- ALL YOUR REQUESTED ICONS MAP AUTOMATICALLY HERE -->
       <img src="https://skillicons.dev" alt="My Skills">
     </td>
   </tr>
 </table>
-
 
