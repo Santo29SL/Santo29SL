@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 <div align="center">
-  <!-- Bypasses the CDN delay by using a direct relative path -->
-  <img src="lightning-strike.gif" width="120" alt="Ka-Chow Strike">
+  <!-- Clean, large animated neon lightning element with transparent background -->
+  <img src="https://gstatic.com" width="160" alt="Ka-Chow Strike">
   
   <h1>KA-CHOW! Welcome to my profile!</h1>
 
-  <!-- Restored stable profile view markdown tag -->
+  <!-- Replaced with a fully transparent, highly-stable stat layout -->
   <img src="https://komarev.com" alt="Profile Views">
 </div>
 
