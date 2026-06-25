@@ -3,7 +3,7 @@
 # <img src="https://jsdelivr.net" width="45" align="center"> KA-CHOW! Welcome to my profile!
 
 ### 👤 About Me
-An Integrated Mtech Software Enigneering Student, constantly figuiring things out...
+An Integrated Mtech Software Engineering Student, constantly figuring things out...
 
 ---
 
