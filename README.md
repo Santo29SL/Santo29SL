@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 <div align="center">
-  <!-- Your Animated Giphy Lightning Bolt -->
-  <img src="https://jsdelivr.net" width="120" height="120" alt="Ka-Chow Strike">
+  <!-- Bypasses the CDN delay by using a direct relative path -->
+  <img src="lightning-strike.gif" width="120" alt="Ka-Chow Strike">
   
   <h1>KA-CHOW! Welcome to my profile!</h1>
 
-  <!-- Profile Views Counter Badge -->
+  <!-- Restored stable profile view markdown tag -->
   <img src="https://komarev.com" alt="Profile Views">
 </div>
 
