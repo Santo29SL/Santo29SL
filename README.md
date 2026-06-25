@@ -9,7 +9,7 @@
 <td valign="top" width="240">
 
 <img src="lightning-strike.gif" width="200" alt="Ka-Chow Strike" /><br/>
-<h1>KA-CHOW! ⚡</h1>
+<h1>KA-CHOW! </h1>
 
 </td>
 <td valign="top">
